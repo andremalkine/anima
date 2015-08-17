@@ -1,6 +1,6 @@
 {
   "name": "anima",
-  "version": "0.4.0",
+  "version": "0.4.0.1",
   "description": "CSS/JS Animations Library with Physics support",
   "main": "anima.js",
   "keywords": [
